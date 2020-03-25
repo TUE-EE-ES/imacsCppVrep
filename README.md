@@ -26,15 +26,15 @@ Tested with the following versions:
 4. Install VREP
 5. Run IMACS_LKAS
 
-It is suggested that you Fork [this](https://github.com/sajid-mohamed/cppVrepLKAS) repository by clicking the "fork" button in the top right. This lets you have your own working copy.
+It is suggested that you Fork [this](https://github.com/TUE-EE-ES/imacsCppVrep) repository by clicking the "fork" button in the top right. This lets you have your own working copy.
 
-Clone the forked (or directly [this](https://github.com/sajid-mohamed/cppVrepLKAS)) repository:
+Clone the forked (or directly [this](https://github.com/TUE-EE-ES/imacsCppVrep)) repository:
 ```
-git clone https://github.com/sajid-mohamed/cppVrepLKAS.git
-cd cppVrepLKAS
+git clone https://github.com/TUE-EE-ES/imacsCppVrep.git
+cd imacsCppVrep
 pwd
 ```
-For brevity, `$(root)=pwd`, i.e. the path to `cppVrepLKAS` is called as `$(root)`. 
+For brevity, `$(root)=pwd`, i.e. the path to `imacsCppVrep` is called as `$(root)`. 
 
 # File Structure
 
